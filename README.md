@@ -16,7 +16,7 @@ Aspiring **Full-Stack Developer**
 
 ### 🛠️ Tech Stack
 **Frontend:** React · JavaScript · HTML · CSS  
-**Backend:** Node.js · Express · Java  · Spring Boot 
+**Backend:** Node.js · Express · Java  · Spring Boot
 **Tools:** Git · GitHub · Figma  
 **Others:** UI/UX · REST APIs
 
